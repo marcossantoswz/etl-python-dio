@@ -38,3 +38,7 @@ A "inteligência" do sistema decide a mensagem com base na seguinte árvore de d
 │   └── campanha_final.csv # Arquivo final processado
 ├── main.ipynb             # Notebook com o código ETL
 └── README.md              # Documentação do projeto
+=======
+# etl-python-dio
+ETL em Python – Desafio DIO
+
