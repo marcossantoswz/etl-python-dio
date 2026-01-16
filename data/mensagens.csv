@@ -1,0 +1,11 @@
+id_mensagem;tipo;mensagem_modelo
+1;Boas-vindas;Seja bem-vindo ao nosso banco! Seu cartão já está pronto para uso.
+2;Credito;Vimos que você usa bem seu cartão e tem um ótimo score. Que tal conferir se há um aumento de limite disponível?
+3;Investimento;Com seu perfil financeiro de alto nível temos opções de investimentos exclusivos no app.
+4;Segurança;Proteja sua conta! Ative a verificação em duas etapas no aplicativo agora mesmo.
+5;Oferta;Parabéns! Pelo seu excelente histórico, você foi pré-selecionado para nossa nova linha de crédito pessoal.
+6;Black;Seu score é de elite! Você está elegível para o upgrade do cartão Black. Aproveite os benefícios VIP!
+7;Cobranca_Vencida;Atenção! Sua fatura venceu. Realize o pagamento hoje para recuperar sua pontuação de crédito.
+8;Aviso_Vencimento;Lembrete: sua fatura vence em breve. Pague em dia e mantenha seu score alto.
+9;Agradecimento_Pagamento;Obrigado! Pagamento confirmado. Seu score continua subindo!
+10;Seguro;Imprevistos acontecem. Conheça nosso seguro de vida a partir de R$10.
